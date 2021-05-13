@@ -2,6 +2,9 @@ package com.gordon.database;
 
 import org.apache.commons.lang3.StringUtils;
 
+/**
+ *  gordon edit
+ */
 public class ConnectorFactory {
     public ConnectorFactory() {
     }
