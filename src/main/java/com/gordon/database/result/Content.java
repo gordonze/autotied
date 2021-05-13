@@ -1,5 +1,8 @@
 package com.gordon.database.result;
 
+/**
+ * gordon edit
+ */
 public class Content {
     private Object contentObejct;
     private int index;
